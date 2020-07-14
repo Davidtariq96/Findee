@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    margin-left:  2rem;
+    padding: 2rem;
+}
+
+.header-wrapper{
+    background-image: url(./images/Group\ 12\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    height: 550px;
+    margin-bottom: 2rem;
+}
+
+.sub-section{
+    width: 550px;
+    margin-left: 4rem;
+    color: white;
+}
+
+input{
+    height: 46px;
+    width: 50%;
+    border-radius: 5px;
+    border: none;
+    color: rgba(0, 0, 0, 0.58);
+    background: grey;
+}
+
+.feature-wrapper{
+    background-image: url(./images/Group\ 84.png);
+    height: 550px;
+    margin-bottom: 3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.feature-wrapper h3{
+    text-align: center;
+    /* color: white; */
+}
+
+.feature-wrapper h5{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.card1,.card2,.card3,.card4{
+    width: 770px;
+    position: relative;
+    margin-left: 3rem;
+}
+
+.card1 img{
+    margin-left: 4rem;
+}
+.card1 h5{
+    top: 280px;
+    left: 50px;
+    position: absolute;
+}
+
+.card2 img{
+    margin-left: 4rem;
+}
+.card2 h5{
+    top: 280px;
+    position: absolute;
+}
+
+.card3 img{
+    margin-left: 4rem;
+}
+.card3 h5{
+    top: 280px;
+    right: 20px;
+    position: absolute;
+}
+
+.card4 img{
+    margin-left: 4rem;
+}
+.card4 h5{
+    top: 280px;
+    right: 50px;
+    position: absolute;
+}
+
+
+#carousel{
+    background-image: url(./images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3rem;
+    margin-top: 5rem;
+}
+
+.carousel-item img{
+    width: 300px;
+    margin: auto;
+}
+#carousel h3{
+    text-align: center;
+    color: white;
+}
+
+.countdown{
+    text-align: center;
+}
+#counter{
+    display: inline-block;
+    align-content: center;
+    justify-content: center;
+}
+#counter > div{
+    padding: 15px;
+}
+
+
+.footer{
+    margin-top: 3rem;
+}
