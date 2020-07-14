@@ -116,6 +116,7 @@ input{
 
 .countdown{
     text-align: center;
+    margin-top: 2rem;
 }
 #counter{
     display: inline-block;
@@ -129,4 +130,10 @@ input{
 
 .footer{
     margin-top: 3rem;
+    background: #3F3D56;
+    height: 50px;
+    padding: 3rem 0;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
 }
