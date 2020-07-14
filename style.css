@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 .logo{
     margin-left:  2rem;
     padding: 2rem;
@@ -102,7 +106,7 @@ input{
 }
 
 .carousel-item img{
-    width: 300px;
+    width: 500px;
     margin: auto;
 }
 #carousel h3{
