@@ -39,7 +39,7 @@ input{
 
 .feature-wrapper{
     background-image: url(./images/Group\ 84.png);
-    height: 550px;
+    height: 650px;
     margin-bottom: 3rem;
     background-repeat: no-repeat;
     background-size: cover;
@@ -112,6 +112,8 @@ input{
 #carousel h3{
     text-align: center;
     color: white;
+    font-size: 24px;
+    font-weight: 500;
 }
 
 .countdown{
@@ -125,6 +127,11 @@ input{
 }
 #counter > div{
     padding: 15px;
+}
+
+#counter h4,.countdown h4{
+    font-size: 64px;
+    font-weight: bold;
 }
 
 
