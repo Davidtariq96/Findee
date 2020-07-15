@@ -35,6 +35,8 @@ input{
     border: none;
     color: rgba(0, 0, 0, 0.58);
     background: grey;
+    cursor: pointer;
+    /* margin: 10px; */
 }
 
 .feature-wrapper{
